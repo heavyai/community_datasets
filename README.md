@@ -26,3 +26,4 @@ If you have an interesting dataset, but are not willing to host it for download,
 |--------------------------------------|----------|-------------------------|
 |Name                                  | Subject  |Data Type                |
 |[OpenStreetMap](https://github.com/omnisci/community_datasets/tree/master/openstreetmap)|Places of interest|Geospatial          |
+|[Gaia](https://github.com/omnisci/community_datasets/tree/master/gaia)|Astronomy|Spatial          |

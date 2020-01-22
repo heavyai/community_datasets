@@ -68,6 +68,6 @@ wood TEXT ENCODING DICT(16),
 z_order SMALLINT,
 way_area FLOAT,
 tags TEXT ENCODING DICT(32),
-way_wkt GEOMETRY(MULTIPOLYGON, 4326) ENCODING COMPRESSED(32))
+way_wkt GEOMETRY(MULTIPOLYGON, 4326) ENCODING COMPRESSED(32));
 
-copy planet_osm_polygon from 's3://omnisci-community/datasets/openstreetmap/planet_osm_polygon.csv.gz' with (header='true');
+copy planet_osm_polygon from 's3://omnisci-community/datasets/openstreetmap/planet_osm_polygon_20191202.csv.gz' with (header='true');

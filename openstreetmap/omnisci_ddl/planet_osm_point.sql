@@ -68,6 +68,6 @@ width SMALLINT,
 wood TEXT ENCODING DICT(8),
 z_order TEXT ENCODING DICT(8),
 tags TEXT ENCODING DICT(32),
-way_wkt GEOMETRY(POINT, 4326) ENCODING COMPRESSED(32))
+way_wkt GEOMETRY(POINT, 4326) ENCODING COMPRESSED(32));
 
-copy planet_osm_point from 's3://omnisci-community/datasets/openstreetmap/planet_osm_point.csv.gz' with (header='true');
+copy planet_osm_point from 's3://omnisci-community/datasets/openstreetmap/planet_osm_point_20191202.csv.gz' with (header='true');

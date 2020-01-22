@@ -70,4 +70,4 @@ way_area TEXT ENCODING DICT(8),
 tags TEXT ENCODING DICT(32),
 way_wkt GEOMETRY(LINESTRING, 4326) ENCODING COMPRESSED(32));
 
-copy planet_osm_line from 's3://omnisci-community/datasets/openstreetmap/planet_osm_line.csv.gz' with (header='true');
+copy planet_osm_line from 's3://omnisci-community/datasets/openstreetmap/planet_osm_line_20191202.csv.gz' with (header='true');

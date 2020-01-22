@@ -72,4 +72,4 @@ tags,
 ST_ASTEXT(way) as way_wkt
 from planet_osm_point;
 
-psql --db gis -c "\copy (select * from vw_planet_point) to stdout WITH CSV HEADER" | pigz > /home/rzwitch/sandisk2TB_860/planet_osm_point.csv.gz
+psql --db gis -c "\copy (select * from vw_planet_point) to stdout WITH CSV HEADER" | pigz > /home/rzwitch/planet_osm_point.csv.gz

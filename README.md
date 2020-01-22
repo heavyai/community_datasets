@@ -10,6 +10,7 @@ The overarching goal is to show how to process data, load data, and visualize da
 
 If you have an interesting dataset, but are not willing to host it for download, please contact community@omnisci.com and depending on the dataset, we may choose to host it via our S3 account.
 
+## Demos
 |Laptop demos (~4GB GPU)|          |                         |
 |-----------------------|----------|-------------------------|
 |Name                   | Subject  |Data Type                |

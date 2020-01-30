@@ -17,7 +17,7 @@ If you have an interesting dataset, but are not willing to host it for download,
 |Name                   | Subject  |Data Type                |
 |-----------------------|----------|-------------------------|
 |[Baywheels](https://github.com/omnisci/community_datasets/tree/master/baywheels)|Bikeshare |Transactional, Geospatial|
-|                       |          |                         |
+
 
 ### Workstation demos (1-2 GPU)
 
@@ -25,7 +25,7 @@ If you have an interesting dataset, but are not willing to host it for download,
 |---------------------------|----------|-------------------------|
 |[Opioid Crisis](https://github.com/omnisci/community_datasets/tree/master/opioid)|Public Health|Geospatial                         |
 
-### Server demos (2+ GPUs, 48GB GPU RAM+) 
+### Server demos (2+ GPUs, 48GB GPU RAM+)
 
 |Name                                  | Subject  |Data Type                |
 |--------------------------------------|----------|-------------------------|

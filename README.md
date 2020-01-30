@@ -20,7 +20,7 @@ If you have an interesting dataset, but are not willing to host it for download,
 |Workstation demos (1-2 GPU)|          |                         |
 |---------------------------|----------|-------------------------|
 |Name                       | Subject  |Data Type                |
-|                           |          |                         |
+|[Opioid Crisis](https://github.com/omnisci/community_datasets/tree/master/opioid)|Public Health|Geospatial                         |
 
 |Server demos (2+ GPUs, 48GB GPU RAM+) |          |                         |   
 |--------------------------------------|----------|-------------------------|

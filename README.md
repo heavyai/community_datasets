@@ -11,19 +11,23 @@ The overarching goal is to show how to process data, load data, and visualize da
 If you have an interesting dataset, but are not willing to host it for download, please contact community@omnisci.com and depending on the dataset, we may choose to host it via our S3 account.
 
 ## Demos
-|Laptop demos (~4GB GPU)|          |                         |
-|-----------------------|----------|-------------------------|
+
+### Laptop demos (~4GB GPU)
+
 |Name                   | Subject  |Data Type                |
+|-----------------------|----------|-------------------------|
 |[Baywheels](https://github.com/omnisci/community_datasets/tree/master/baywheels)|Bikeshare |Transactional, Geospatial|
-|                       |          |                         |
 
-|Workstation demos (1-2 GPU)|          |                         |
-|---------------------------|----------|-------------------------|
+
+### Workstation demos (1-2 GPU)
+
 |Name                       | Subject  |Data Type                |
-|                           |          |                         |
+|---------------------------|----------|-------------------------|
+|[Opioid Crisis](https://github.com/omnisci/community_datasets/tree/master/opioid)|Public Health|Geospatial                         |
 
-|Server demos (2+ GPUs, 48GB GPU RAM+) |          |                         |   
-|--------------------------------------|----------|-------------------------|
+### Server demos (2+ GPUs, 48GB GPU RAM+)
+
 |Name                                  | Subject  |Data Type                |
+|--------------------------------------|----------|-------------------------|
 |[OpenStreetMap](https://github.com/omnisci/community_datasets/tree/master/openstreetmap)|Places of interest|Geospatial          |
 |[Gaia](https://github.com/omnisci/community_datasets/tree/master/gaia)|Astronomy|Spatial          |

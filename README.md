@@ -31,3 +31,4 @@ If you have an interesting dataset, but are not willing to host it for download,
 |--------------------------------------|----------|-------------------------|
 |[OpenStreetMap](https://github.com/omnisci/community_datasets/tree/master/openstreetmap)|Places of interest|Geospatial          |
 |[Gaia](https://github.com/omnisci/community_datasets/tree/master/gaia)|Astronomy|Spatial          |
+|[Caltrans](https://github.com/omnisci/community_datasets/tree/master/caltrans_2015_2019)|Transportation |Geospatial       |

@@ -2,7 +2,7 @@
 
 ![gaia dashboard](https://github.com/omnisci/community_datasets/blob/master/gaia/dashboard_img/gaia.png)
 
-This demo takes a significant amount of hardware for fluid interactivity. At least 96GB of GPU RAM is required to run the dashboard as shown, but you'll like want a larger instance if you want to add additional fields.
+This demo takes a significant amount of hardware for fluid interactivity. At least 96GB of GPU RAM is required to run the dashboard as shown, but you'll likely want a larger instance if you want to add additional fields.
 
 ## Data
 

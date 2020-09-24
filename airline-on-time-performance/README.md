@@ -1,6 +1,6 @@
 # USA Flights
 
-![flights dashboard](https://github.com/omnisci/community_datasets/blob/master/USAflights/dashboard_img/usa_flights)
+![flights dashboard](https://github.com/omnisci/community_datasets/blob/master/airline-on-time-performance/dashboard_img/usa_flights.png)
 
 This dashboard is used in the 2020 Desktop Edition Mac Preview and is used as part of the Getting Started Tutorials.
 

@@ -58,3 +58,4 @@ CREATE TABLE flights_2008_7M (
 WITH (FRAGMENT_SIZE=2000000);
 
 copy flights_2008_7M from 's3://omnisci-community/datasets/airline_on-time_performance/flights_2008_7M.csv.gz' with (header='true');
+

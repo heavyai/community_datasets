@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> As of 05/27/2026 this project has been deprecated. **community_datasets** is not maintained anymore.
+>
+
 # OmniSci Community Examples
 
 This repository contains example datasets and dashboards known to work well in OmniSci. The intent is to provide a wide range of examples of public datasets across various subject matters and ranges of hardware from laptop to large, data center installations.
